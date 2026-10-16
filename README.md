@@ -1,7 +1,7 @@
 # DSA-Java questions
 collection of LeetCode questions to ace the coding interviews
 
-LeetCode Topics 
+LeetCode questions Topics 
 # LeetCode Topics
 ## Hash Table
 |  |
