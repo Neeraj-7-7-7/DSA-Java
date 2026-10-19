@@ -9,7 +9,7 @@
 	<li><strong>Rounding</strong>: If the integer is out of the 32-bit signed integer range <code>[-2<sup>31</sup>, 2<sup>31</sup> - 1]</code>, then round the integer to remain in the range. Specifically, integers less than <code>-2<sup>31</sup></code> should be rounded to <code>-2<sup>31</sup></code>, and integers greater than <code>2<sup>31</sup> - 1</code> should be rounded to <code>2<sup>31</sup> - 1</code>.</li>
 </ol>
 
-<p>Return the integer as the final result.</p>
+<p>Return the integer is the final result.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
