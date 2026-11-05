@@ -1,5 +1,5 @@
 # DSA-Java questions
-collection of LeetCode questions to ace the coding interviews questions 
+collection of LeetCode questions to ace the coding interviews questions. 
 
 LeetCode questions Topics 
 # LeetCode Topics
