@@ -3,7 +3,7 @@ collection of LeetCode questions to ace the coding interviews questions.
 
 LeetCode questions Topics 
 # LeetCode Topics
-## Hash Table
+## Hash Tables
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Neeraj-7-7-7/DSA-Java/tree/master/0013-roman-to-integer) |
